@@ -16,7 +16,7 @@ reliable and scalable systems through software development internships in **fron
 - Looking for **2026 Summer internship for software development**
 
 ### 😆 Let’s Connect!
-[Email](shakousei@gmail.com)
+shakousei@gmail.com
 
 <!--
 **haoching918/haoching918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
